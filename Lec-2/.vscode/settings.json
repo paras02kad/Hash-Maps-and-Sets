@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "ios": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "iterator": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "xlocnum": "cpp",
+        "xtr1common": "cpp",
+        "utility": "cpp"
+    }
+}
